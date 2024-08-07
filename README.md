@@ -1,0 +1,1 @@
+ GUI-applikasjon med hovedfokus på databaseinteraksjoner og filhåndtering. Det gir brukerne muligheten til å administrere databasen (teste forbindelser, kjøre spørringer, endre data), håndtere filer (velge filer, skrive data til filer)
